@@ -1,7 +1,7 @@
 # Hi, I'm Budhi 👋
 🎓 Artificial Intelligence Student at BINUS University  
-🚀 AI Product Engineer in Progress
-📊 Focus: Data Science, Machine Learning, Fullstack AI Systems
+🚀 AI Product Engineer in Progress <br>
+📊 Focus: Data Science, Machine Learning, Fullstack AI Systems <br>
 🧠 Building Cognitive OS — a fullstack AI-powered personal system
 
 
